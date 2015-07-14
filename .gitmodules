@@ -3,4 +3,4 @@
 	url = https://bitbucket.org/nuttx/documentation.git
 [submodule "configs"]
 	path = configs
-	url = https://bitbucket.org/nuttx/boards.git
+	url = https://github.com/taogashi/skymouse-configs.git
